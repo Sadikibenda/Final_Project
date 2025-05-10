@@ -9,4 +9,8 @@
 <ul>
   <li>Two-window GUI (Feedback form & Thank-you screen)</li>
   <li>Input validation (ensures no empty fields)</li>
+  <li>Data is saved with a timestamp in a text file</li>
+  <li>Clean layout with labels, buttons, and radio buttons</li>
+  <li>Two images included with alt text descriptions</li>
+  <li>Modular code with reusable functions</li>
 </ul>
